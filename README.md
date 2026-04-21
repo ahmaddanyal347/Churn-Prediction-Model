@@ -42,7 +42,7 @@ The included Jupyter Notebook (`ChurnGuard_Model.ipynb`) follows a structured Da
 
 ## 📂 Repository Structure
 * `ChurnGuard_prediction_model.ipynb`: The primary notebook containing all code, visualizations, and model training logic.
-* `data/`: Folder for the dataset used (if applicable).
+* `synthetic_customer_behaviour_and_churn.csv`: Folder for the dataset used (if applicable).
 * `requirements.txt`: List of Python libraries required to run the notebook.
 
 ---
